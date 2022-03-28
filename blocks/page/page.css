@@ -1,0 +1,19 @@
+.page {
+  background: #e0f0ff;
+  max-width: 1440px;
+  min-width: 320px;
+  margin: 0 auto;
+  font-weight: 400;
+  color: #000d26;
+  font-family: Open Sans;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+}
+
+
+
+
