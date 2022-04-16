@@ -1,0 +1,12 @@
+.partners__paragraph{
+    color: #fff;
+    margin: 30px auto 10px;
+    font-weight: 400;
+    font-size: 18px;
+    letter-spacing: 0.1px;
+    line-height: 30px;
+    max-width: 63.9%;
+}
+.partners__paragraph:nth-last-child(2){
+    margin-bottom: 0px;
+}

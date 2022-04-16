@@ -10,4 +10,10 @@
 @import url(../blocks/lab/__cards/lab__cards.css);
 @import url(../blocks/lab/__card/lab__card.css);
 
-
+/* partners */
+@import url('../blocks/partners/partners.css');
+@import url('../blocks/partners/__title/partners__title.css');
+@import url('../blocks/partners/__paragraph/partners__paragraph.css');
+@import url('../blocks/partners/__items-list/partners__item-list.css');
+@import url('../blocks/partners/__items/partners__items.css');
+@import url('../blocks/partners/__item/partners__item.css');
