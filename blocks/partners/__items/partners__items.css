@@ -1,0 +1,11 @@
+.partners__items {
+    text-decoration: none;
+    list-style: none;
+    cursor: pointer;
+    transition: opacity .5s ease;
+}
+
+
+.partners__items:hover {
+    opacity: 0.8;
+}
