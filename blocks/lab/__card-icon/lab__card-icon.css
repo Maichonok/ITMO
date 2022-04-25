@@ -1,0 +1,22 @@
+.lab__card-icon {
+  width: 70px;
+  height: 70px;
+  margin: 0 auto 51px auto;
+  position: relative;
+  background-color: #fff;
+  box-shadow: 0px 4px 20px rgba(1, 54, 157, 0.15);
+  border-radius: 36px;
+}
+
+.lab__card-icon::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  background-repeat: no-repeat;
+  background-origin: border-box;
+}
