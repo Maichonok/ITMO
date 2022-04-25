@@ -1,11 +1,9 @@
 .lab__cards {
-  list-style-type: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 30px;
   margin: 0;
   padding: 0;
-  font-size: 14px;
-  line-height: 20px;
-  text-align: center;
-  letter-spacing: 0.1px;
-  color: #001337;
 }
+
 

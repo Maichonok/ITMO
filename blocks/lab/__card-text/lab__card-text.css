@@ -1,0 +1,11 @@
+.lab__card-text {
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  letter-spacing: 0.1px;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 50px;
+  box-sizing: border-box;
+  max-height: 110px;
+}

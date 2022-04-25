@@ -1,0 +1,11 @@
+.lab__card-title {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 30px;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 49px;
+  box-sizing: border-box;
+  max-height: 110px;
+}

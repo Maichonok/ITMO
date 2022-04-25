@@ -1,0 +1,14 @@
+.lab__card-btn {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  text-align: center;
+  border-radius: 10px;
+  border: 1px solid #001337;
+  width: 100%;
+  min-height: 40px;
+}
+
+.lab__card-btn:hover {
+  border: 1px solid #fff;
+}
